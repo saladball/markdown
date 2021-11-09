@@ -1,0 +1,41 @@
+{
+  "name": "resift-notes",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.5.1",
+    "@material-ui/icons": "4.5.1",
+    "classnames": "2.2.6",
+    "common-tags": "1.8.0",
+    "delay": "4.3.0",
+    "immutable": "3.8.2",
+    "moment": "2.24.0",
+    "normalize.css": "8.0.1",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "react-redux": "7.1.1",
+    "react-router-dom": "5.1.2",
+    "react-scripts": "3.0.1",
+    "redux": "4.0.4",
+    "resift": "0.1.0",
+    "rich-markdown-editor": "6.1.1",
+    "shortid": "2.2.15"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
